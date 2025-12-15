@@ -2,3 +2,8 @@ PyPDF2==3.0.1
 Pillow==10.2.0
 Flask==3.0.0
 schedule==1.2.0
+waitress==2.1.2
+pyinstaller==6.3.0
+pypiwin32==223
+pystray==0.19.0
+requests==2.31.0

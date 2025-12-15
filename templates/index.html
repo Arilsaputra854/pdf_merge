@@ -88,6 +88,17 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+        .info-link {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .info-link a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .info-link a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -104,16 +115,42 @@
             </div>
             <button type="submit">Merge Files</button>
         </form>
+        <div class="info-link">
+            <a href="/info">Server Info</a>
+        </div>
     </div>
     <div class="loader" id="loader">
         <div class="loader-spinner"></div>
     </div>
 
     <script>
-        document.getElementById('merge-form').addEventListener('submit', function() {
+        document.getElementById('merge-form').addEventListener('submit', function(e) {
+            e.preventDefault();
             document.getElementById('loader').style.display = 'flex';
+
+            const formData = new FormData(this);
+
+            fetch('/merge', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('loader').style.display = 'none';
+                if (data.success) {
+                    alert('Files merged successfully! Your download will start now.');
+                    window.location.href = data.download_url;
+                } else {
+                    alert('Error: ' + data.error);
+                }
+            })
+            .catch(error => {
+                document.getElementById('loader').style.display = 'none';
+                alert('An unexpected error occurred. Please check the logs for more details.');
+                console.error('Error:', error);
+            });
         });
-        </script>
+    </script>
     
 </body>
 </html>

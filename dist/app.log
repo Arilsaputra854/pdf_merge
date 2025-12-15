@@ -1,0 +1,61 @@
+2025-12-15 10:11:59,838 - Server started at http://172.19.2.130:8080
+2025-12-15 10:11:59,872 - Serving on http://0.0.0.0:8080
+2025-12-15 10:12:40,752 - Server started at http://172.19.2.130:8080
+2025-12-15 10:12:40,790 - Serving on http://0.0.0.0:8080
+2025-12-15 10:13:12,876 - Server started at http://172.19.2.130:8080
+2025-12-15 10:13:12,914 - Serving on http://0.0.0.0:8080
+2025-12-15 11:12:51,921 - Server started at http://172.19.2.130:8080
+2025-12-15 11:12:51,934 - Serving on http://0.0.0.0:8080
+2025-12-15 11:12:55,828 - Exception on / [GET]
+Traceback (most recent call last):
+  File "flask\app.py", line 1455, in wsgi_app
+  File "flask\app.py", line 869, in full_dispatch_request
+  File "flask\app.py", line 867, in full_dispatch_request
+  File "flask\app.py", line 852, in dispatch_request
+  File "app.py", line 108, in index
+  File "flask\templating.py", line 151, in render_template
+  File "jinja2\environment.py", line 1081, in get_or_select_template
+  File "jinja2\environment.py", line 1010, in get_template
+  File "jinja2\environment.py", line 969, in _load_template
+  File "jinja2\loaders.py", line 126, in load
+  File "flask\templating.py", line 65, in get_source
+  File "flask\templating.py", line 99, in _get_source_fast
+jinja2.exceptions.TemplateNotFound: index.html
+2025-12-15 11:13:19,766 - Server shutting down...
+2025-12-15 11:20:53,132 - Server started at http://172.19.2.130:8080
+2025-12-15 11:20:53,153 - Serving on http://0.0.0.0:8080
+2025-12-15 11:21:24,181 - Uploaded file: 12.-Tips-Merawat-Anak-Kucing-Munchkin.jpg.webp
+2025-12-15 11:21:24,200 - Uploaded file: Sertifikat Merakit Makerzoid Junior  (1).pdf
+2025-12-15 11:21:24,200 - --- Merge Queue ---
+2025-12-15 11:21:24,200 -   - 12.-tips-merawat-anak-kucing-munchkin.jpg.webp
+2025-12-15 11:21:24,201 -   - sertifikat merakit makerzoid junior  (1).pdf
+2025-12-15 11:21:24,201 - --------------------
+2025-12-15 11:21:24,216 - Processing file: 12.-tips-merawat-anak-kucing-munchkin.jpg.webp
+2025-12-15 11:21:24,216 - Unsupported file type: 12.-tips-merawat-anak-kucing-munchkin.jpg.webp, skipping.
+2025-12-15 11:21:24,216 - Processing file: sertifikat merakit makerzoid junior  (1).pdf
+2025-12-15 11:21:25,657 - Successfully merged files into dokumen apa aja_505f0fd5-348d-41cb-8f7c-b3c41321981d.pdf
+2025-12-15 11:21:54,650 - Uploaded file: Real-picture-of-pet-dog-Dogs-Domestic-dog-anime_500489_wh1200.png
+2025-12-15 11:21:54,651 - Uploaded file: 649a8c85cd2e4.jpg
+2025-12-15 11:21:54,656 - Uploaded file: Testing  merge_b6f8a0a7-b7fa-4c24-9f75-fbccaf1f3f1b.pdf
+2025-12-15 11:21:54,656 - --- Merge Queue ---
+2025-12-15 11:21:54,656 -   - real-picture-of-pet-dog-dogs-domestic-dog-anime_500489_wh1200.png
+2025-12-15 11:21:54,656 -   - 649a8c85cd2e4.jpg
+2025-12-15 11:21:54,656 -   - testing  merge_b6f8a0a7-b7fa-4c24-9f75-fbccaf1f3f1b.pdf
+2025-12-15 11:21:54,656 - --------------------
+2025-12-15 11:21:54,677 - Processing file: real-picture-of-pet-dog-dogs-domestic-dog-anime_500489_wh1200.png
+2025-12-15 11:21:54,834 - Converted image C:\Users\tunas\Desktop\pdf\dist\temp\1e025e0c-3827-44fe-b42f-2a18b5e93412_Real-picture-of-pet-dog-Dogs-Domestic-dog-anime_500489_wh1200.png to PDF C:\Users\tunas\Desktop\pdf\dist\temp/83d27e51-094c-44bc-91d2-b57e485d87c8_convertedSize.pdf
+2025-12-15 11:21:54,841 - Processing file: 649a8c85cd2e4.jpg
+2025-12-15 11:21:54,924 - Converted image C:\Users\tunas\Desktop\pdf\dist\temp\2db2e97b-cc69-43fb-9465-60febb048762_649a8c85cd2e4.jpg to PDF C:\Users\tunas\Desktop\pdf\dist\temp/0e6d6220-30fd-43ce-aac4-9338a7879c29_convertedSize.pdf
+2025-12-15 11:21:54,930 - Processing file: testing  merge_b6f8a0a7-b7fa-4c24-9f75-fbccaf1f3f1b.pdf
+2025-12-15 11:21:55,681 - Successfully merged files into dokumen apa aja_e70ad721-1ce0-454f-bc9f-0c0d00fc63b4.pdf
+2025-12-15 11:22:29,285 - Uploaded file: KELAS PRIVATE, HARGA REGULER ! (Story Instagram).png
+2025-12-15 11:22:29,290 - Uploaded file: PERIZINAN BERUSAHA BERBASIS RISIKO.pdf
+2025-12-15 11:22:29,290 - --- Merge Queue ---
+2025-12-15 11:22:29,290 -   - kelas private, harga reguler ! (story instagram).png
+2025-12-15 11:22:29,290 -   - perizinan berusaha berbasis risiko.pdf
+2025-12-15 11:22:29,290 - --------------------
+2025-12-15 11:22:29,294 - Processing file: kelas private, harga reguler ! (story instagram).png
+2025-12-15 11:22:29,436 - Converted image C:\Users\tunas\Desktop\pdf\dist\temp\938542b1-6395-4531-95e7-dc2144a373f4_KELAS PRIVATE, HARGA REGULER ! (Story Instagram).png to PDF C:\Users\tunas\Desktop\pdf\dist\temp/976d5f9a-5661-4f31-91f1-114f05a62561_convertedSize.pdf
+2025-12-15 11:22:29,442 - Processing file: perizinan berusaha berbasis risiko.pdf
+2025-12-15 11:22:29,528 - Successfully merged files into dokumen apa aja_22d50afc-06ab-48f9-896e-0ed50b4a65ab.pdf
+2025-12-15 11:23:11,803 - Server shutting down...
