@@ -2,3 +2,85 @@
 2025-12-15 10:36:05,093 - Serving on http://0.0.0.0:8080
 2025-12-15 10:40:27,462 - Server started at http://172.19.2.130:8080
 2025-12-15 10:40:27,468 - Serving on http://0.0.0.0:8080
+2025-12-19 14:08:45,117 - Server started at http://172.19.2.130:8080
+2025-12-19 14:08:45,123 - Serving on http://0.0.0.0:8080
+2025-12-19 14:10:09,887 - Uploaded file: Flyer KodingYuk (2).png
+2025-12-19 14:10:09,894 - Uploaded file: DOC-20251205-WA0034. (1).pdf
+2025-12-19 14:10:09,895 - --- Merge Queue ---
+2025-12-19 14:10:09,895 -   - flyer kodingyuk (2).png
+2025-12-19 14:10:09,895 -   - doc-20251205-wa0034. (1).pdf
+2025-12-19 14:10:09,895 - --------------------
+2025-12-19 14:10:09,938 - Processing file: flyer kodingyuk (2).png
+2025-12-19 14:10:10,190 - Converted image C:\Users\tunas\Desktop\pdf\temp\4890bbe6-512d-4692-b422-372cb19af690_Flyer KodingYuk (2).png to PDF C:\Users\tunas\Desktop\pdf\temp/c903ebaa-3c17-4bfd-b64b-c453dfa7b020_convertedSize.pdf
+2025-12-19 14:10:10,194 - Processing file: doc-20251205-wa0034. (1).pdf
+2025-12-19 14:10:10,878 - Successfully merged files into dokument_4fdfd707-9aad-4b49-9f71-64c3d9c52124.pdf
+2025-12-19 14:10:42,254 - Uploaded file: DOC-20251205-WA0034. (1).pdf
+2025-12-19 14:10:42,269 - Uploaded file: Flyer KodingYuk (2).png
+2025-12-19 14:10:42,269 - --- Merge Queue ---
+2025-12-19 14:10:42,269 -   - doc-20251205-wa0034. (1).pdf
+2025-12-19 14:10:42,269 -   - flyer kodingyuk (2).png
+2025-12-19 14:10:42,270 - --------------------
+2025-12-19 14:10:42,287 - Processing file: doc-20251205-wa0034. (1).pdf
+2025-12-19 14:10:42,360 - Processing file: flyer kodingyuk (2).png
+2025-12-19 14:10:42,603 - Converted image C:\Users\tunas\Desktop\pdf\temp\c8dc68ad-b0da-497e-8b20-352bebb7b3b1_Flyer KodingYuk (2).png to PDF C:\Users\tunas\Desktop\pdf\temp/e725dda5-52cd-4bad-b9ba-eab1181e3d41_convertedSize.pdf
+2025-12-19 14:10:43,251 - Successfully merged files into dokument_6338c986-7623-4de4-bdca-4dc12ae1023c.pdf
+2025-12-19 14:16:04,201 - Server started at http://172.19.2.130:8080
+2025-12-19 14:16:04,211 - Serving on http://0.0.0.0:8080
+2025-12-19 14:16:25,639 - Uploaded file: WhatsApp Image 2025-12-18 at 08.50.55.jpeg
+2025-12-19 14:16:25,648 - Uploaded file: dokument_6338c986-7623-4de4-bdca-4dc12ae1023c.pdf
+2025-12-19 14:16:25,648 - --- Merge Queue ---
+2025-12-19 14:16:25,648 -   - whatsapp image 2025-12-18 at 08.50.55.jpeg
+2025-12-19 14:16:25,648 -   - dokument_6338c986-7623-4de4-bdca-4dc12ae1023c.pdf
+2025-12-19 14:16:25,649 - --------------------
+2025-12-19 14:16:25,663 - Processing file: whatsapp image 2025-12-18 at 08.50.55.jpeg
+2025-12-19 14:16:25,691 - Converted image C:\Users\tunas\Desktop\pdf\temp\e1e2604b-a2da-4e37-8a47-58b494be12c7_WhatsApp Image 2025-12-18 at 08.50.55.jpeg to PDF C:\Users\tunas\Desktop\pdf\temp/12248c53-d1a0-4157-a599-3bdd41c8cd52_convertedSize.pdf
+2025-12-19 14:16:25,696 - Processing file: dokument_6338c986-7623-4de4-bdca-4dc12ae1023c.pdf
+2025-12-19 14:16:26,385 - Successfully merged files into merged_74853f6a-2653-4eec-95c4-bd12bb239cc7.pdf
+2025-12-19 14:23:37,621 - Uploaded file: 6a3dedc6496c3a420fe6da73271c70fd_1736232812.jpeg
+2025-12-19 14:23:37,622 - Uploaded file: 43c64c4288981dc3a773b65c07f222c2_1736232812.jpeg
+2025-12-19 14:23:37,622 - Uploaded file: e2d2a66fbfbd0e54fd283fa6a053dc4f_1736232812.jpeg
+2025-12-19 14:23:37,624 - --- Merge Queue ---
+2025-12-19 14:23:37,624 -   - 6a3dedc6496c3a420fe6da73271c70fd_1736232812.jpeg
+2025-12-19 14:23:37,624 -   - 43c64c4288981dc3a773b65c07f222c2_1736232812.jpeg
+2025-12-19 14:23:37,624 -   - e2d2a66fbfbd0e54fd283fa6a053dc4f_1736232812.jpeg
+2025-12-19 14:23:37,624 - --------------------
+2025-12-19 14:23:37,624 - Processing file: 6a3dedc6496c3a420fe6da73271c70fd_1736232812.jpeg
+2025-12-19 14:23:37,699 - Converted image C:\Users\tunas\Desktop\pdf\temp\c8ca2630-e75e-4cc1-a4bb-08f3f0cabaa0_6a3dedc6496c3a420fe6da73271c70fd_1736232812.jpeg to PDF C:\Users\tunas\Desktop\pdf\temp/c1da69b5-4592-4807-a62d-38eadcfa96bd_convertedSize.pdf
+2025-12-19 14:23:37,702 - Processing file: 43c64c4288981dc3a773b65c07f222c2_1736232812.jpeg
+2025-12-19 14:23:37,731 - Converted image C:\Users\tunas\Desktop\pdf\temp\1b5fb58b-7fc3-4b33-bc5f-e448241209a2_43c64c4288981dc3a773b65c07f222c2_1736232812.jpeg to PDF C:\Users\tunas\Desktop\pdf\temp/7a29e0b4-00d1-47e5-8119-10bb2c5a5d14_convertedSize.pdf
+2025-12-19 14:23:37,736 - Processing file: e2d2a66fbfbd0e54fd283fa6a053dc4f_1736232812.jpeg
+2025-12-19 14:23:37,781 - Converted image C:\Users\tunas\Desktop\pdf\temp\fbab506c-15ac-4e11-839e-fd4c662f4dc1_e2d2a66fbfbd0e54fd283fa6a053dc4f_1736232812.jpeg to PDF C:\Users\tunas\Desktop\pdf\temp/e9d71260-2f60-4bf3-981e-f867ccf72d73_convertedSize.pdf
+2025-12-19 14:23:37,796 - Successfully merged files into tes 1_b20d1705-195a-43cb-817c-1bedcf54c43e.pdf
+2025-12-19 14:24:18,513 - Uploaded file: Gemini_Generated_Image_p7xorzp7xorzp7xo-Photoroom.png
+2025-12-19 14:24:18,513 - Uploaded file: WhatsApp Image 2025-12-03 at 18.04.47.jpeg
+2025-12-19 14:24:18,516 - Uploaded file: F-3069987893.pdf
+2025-12-19 14:24:18,516 - --- Merge Queue ---
+2025-12-19 14:24:18,516 -   - gemini_generated_image_p7xorzp7xorzp7xo-photoroom.png
+2025-12-19 14:24:18,516 -   - whatsapp image 2025-12-03 at 18.04.47.jpeg
+2025-12-19 14:24:18,516 -   - f-3069987893.pdf
+2025-12-19 14:24:18,516 - --------------------
+2025-12-19 14:24:18,518 - Processing file: gemini_generated_image_p7xorzp7xorzp7xo-photoroom.png
+2025-12-19 14:24:18,590 - Converted image C:\Users\tunas\Desktop\pdf\temp\4198c601-3ff5-432f-8814-7dc335613e22_Gemini_Generated_Image_p7xorzp7xorzp7xo-Photoroom.png to PDF C:\Users\tunas\Desktop\pdf\temp/c5558724-c55f-43dc-a351-76a44d3bdfba_convertedSize.pdf
+2025-12-19 14:24:18,594 - Processing file: whatsapp image 2025-12-03 at 18.04.47.jpeg
+2025-12-19 14:24:18,645 - Converted image C:\Users\tunas\Desktop\pdf\temp\8d873878-f1c7-4365-910b-91cdbfecc102_WhatsApp Image 2025-12-03 at 18.04.47.jpeg to PDF C:\Users\tunas\Desktop\pdf\temp/d385e3e5-0034-455e-bc7f-e77eb284c63c_convertedSize.pdf
+2025-12-19 14:24:18,649 - Processing file: f-3069987893.pdf
+2025-12-19 14:24:18,875 - Successfully merged files into tes 1222_f72e2e29-ab3a-40c9-b96f-a0af80b20e89.pdf
+2025-12-19 14:25:58,956 - Server started at http://172.19.2.130:8080
+2025-12-19 14:25:58,966 - Serving on http://0.0.0.0:8080
+2025-12-19 14:28:54,935 - Uploaded file: Gemini_Generated_Image_p7xorzp7xorzp7xo-Photoroom.png
+2025-12-19 14:28:54,941 - Uploaded file: Standar Penampilan Terbaru 2025 (convert 1).pdf
+2025-12-19 14:28:54,954 - Uploaded file: 7c7d72ff566e00ff0b1943f5c34e6bb1.pdf
+2025-12-19 14:28:54,954 - --- Merge Queue ---
+2025-12-19 14:28:54,954 -   - gemini_generated_image_p7xorzp7xorzp7xo-photoroom.png
+2025-12-19 14:28:54,954 -   - standar penampilan terbaru 2025 (convert 1).pdf
+2025-12-19 14:28:54,954 -   - 7c7d72ff566e00ff0b1943f5c34e6bb1.pdf
+2025-12-19 14:28:54,954 - --------------------
+2025-12-19 14:28:54,962 - Processing file: gemini_generated_image_p7xorzp7xorzp7xo-photoroom.png
+2025-12-19 14:28:55,004 - Converted image C:\Users\tunas\Desktop\pdf\temp\d0bf2255-df9f-48d0-9ac1-ed37eddf4b65_Gemini_Generated_Image_p7xorzp7xorzp7xo-Photoroom.png to PDF C:\Users\tunas\Desktop\pdf\temp/3689381f-5900-4ec8-8380-e4ad95c92305_convertedSize.pdf
+2025-12-19 14:28:55,008 - Processing file: standar penampilan terbaru 2025 (convert 1).pdf
+2025-12-19 14:28:55,021 - Processing file: 7c7d72ff566e00ff0b1943f5c34e6bb1.pdf
+2025-12-19 14:28:55,164 - Successfully merged files into asdasdad_c04c4610-374c-41cf-9dfd-a3a75eb46bb5.pdf
+2025-12-19 14:36:10,950 - Server started at http://172.19.2.130:8080
+2025-12-19 14:36:10,958 - Serving on http://0.0.0.0:8080
+2025-12-19 14:40:50,300 - Server started at http://172.19.2.130:8080
+2025-12-19 14:40:50,305 - Serving on http://0.0.0.0:8080

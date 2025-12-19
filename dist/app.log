@@ -59,3 +59,12 @@ jinja2.exceptions.TemplateNotFound: index.html
 2025-12-15 11:22:29,442 - Processing file: perizinan berusaha berbasis risiko.pdf
 2025-12-15 11:22:29,528 - Successfully merged files into dokumen apa aja_22d50afc-06ab-48f9-896e-0ed50b4a65ab.pdf
 2025-12-15 11:23:11,803 - Server shutting down...
+2025-12-19 15:08:51,631 - Server started at http://172.19.2.130:8080
+2025-12-19 15:08:51,644 - Serving on http://0.0.0.0:8080
+2025-12-19 15:08:54,285 - An error occurred when calling message handler
+Traceback (most recent call last):
+  File "pystray\_win32.py", line 401, in _dispatcher
+  File "pystray\_win32.py", line 190, in _on_notify
+  File "pystray\_base.py", line 104, in __call__
+TypeError: 'tuple' object is not callable
+2025-12-19 15:11:44,453 - Server shutting down...
